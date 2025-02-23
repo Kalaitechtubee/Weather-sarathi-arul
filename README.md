@@ -7,7 +7,7 @@
 * Geoapify: [https://www.geoapify.com/geocoding-api](https://www.geoapify.com/geocoding-api) (for Geocoding)
 
 ## Live Link
-### This Project is deployed at: [https://weather-harshpx.vercel.app](weather-tech-project.netlify.app)
+### This Project is deployed at: weather-tech-project.netlify.app
 
 ## To run locally (must have Node.js and NPM installed)
 1. Clone this project on your local device & install necessary packages
